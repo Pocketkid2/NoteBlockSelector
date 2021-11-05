@@ -1,0 +1,7 @@
+name: NoteBlockSelector
+version: 0.0.1-SNAPSHOT
+main: com.github.pocketkid2.noteblockselector.NoteBlockSelectorPlugin
+
+description: A plugin for selecting which note a note block plays!
+api-version: 1.17
+author: Pocketkid2
